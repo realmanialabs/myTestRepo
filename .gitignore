@@ -1,0 +1,2 @@
+# ignore all jupyter notebook file with the extension .ipynb
+*.ipynb
